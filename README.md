@@ -12,7 +12,7 @@ Vou ser bem rapido por que o que realmente importa é o que esta nos repositóri
 
   📚 Amo estudar novas features e compartilhar conhecimento
   
-  ✈️ O que gosto de fazer quando nao estou codando e etc ... é viver com minha esposa não tem coisa MELHOR, afinal todo mundo precisa de alguem para te manter são mesta area 
+  ✈️ O que gosto de fazer quando nao estou codando e etc ... é viver com minha esposa não tem coisa MELHOR, afinal todo mundo precisa de alguem para te manter são nesta area 
 
 
 
