@@ -6,7 +6,7 @@ Vou ser bem rapido por que o que realmente importa é o que esta nos repositóri
 
 ### ⚡ Primeiras impressoes sobre mim:
 
-  👨🏻‍💻 Trabalho com Desenvolvimento Web a 8 anos e sou apaixonado pelo que faço
+  👨🏻‍💻 Trabalho com Desenvolvimento Web a 8 anos em projetos de diversos tamanhos e complexidades e sou apaixonado pelo que faço
 
   ⛔️ O que me leva a segunda coisa se falar comigo sobre desenvolvimento a conversa nao acaba cuidado 
 
