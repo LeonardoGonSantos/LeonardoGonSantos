@@ -6,7 +6,8 @@ Vou ser bem rapido por que o que realmente importa é o que esta nos repositóri
 
 ### ⚡ Primeiras impressoes sobre mim:
 
-  👨🏻‍💻 Trabalho com Desenvolvimento Web a 8 anos em projetos de diversos tamanhos e complexidades e sou apaixonado pelo que faço
+
+  👨🏻‍💻 Trabalho com Desenvolvimento Web a 7 anos em projetos de diversos tamanhos e complexidades e sou apaixonado pelo que faço
 
   ⛔️ O que me leva a segunda coisa se falar comigo sobre desenvolvimento a conversa nao acaba cuidado 
 
@@ -16,21 +17,42 @@ Vou ser bem rapido por que o que realmente importa é o que esta nos repositóri
 
 
 
-### ⚠️ Compartilhando conhecimento  
+### ⚠️ Compartilhando conhecimento:  
 
-  Toda semana posto artigos neste link -> <link href="Link.com">Click Aqui para dar uma olhada</link>
 
-<!--
-**LeonardoGonSantos/LeonardoGonSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Toda semana posto artigos neste link -> <a href="https://medium.com/@LeonardoODevBack">Click Aqui para dar uma olhada</a>
+  
+### + Sobre mim:
+<div>
+          <a href="https://br.linkedin.com/in/leonardo-bombilio-gon%C3%A7alves-415a841b7">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+          </a>
+          <a href="mailto:leonardo.goncalves@reltec.com.br">
+            <img src="https://user-images.githubusercontent.com/56851550/192766729-bc922757-2a7b-48f2-97bb-5c2f5f1bee44.png" width="40px"/>
+          </a>
+</div>
 
-Here are some ideas to get you started:
+### 💬 Infos Interessantes 
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- rFun fact: ...
--->
+Linguagens e Frameworks Preferidas:
+
+<div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="70px""/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="70px"/>
+</div>
+
+Tecnologias e Nuvem Preferidas:
+<div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg"  width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70px"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70px"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="70px"/>
+ </div>
+ 
+ ### Qualquer duvida ou se tiver algum projeto que eu possa auxiliar entre em contato
