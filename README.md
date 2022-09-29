@@ -21,6 +21,7 @@ Vou ser bem rapido por que o que realmente importa é o que esta nos repositóri
 
 
   Toda semana posto artigos neste link -> <a href="https://medium.com/@LeonardoODevBack">Click Aqui para dar uma olhada</a>
+  Sempre estou ativo tirando duvidas no stackOverFlow -> <a href="https://stackoverflow.com/users/20123037/leonardodevback">Click Aqui para dar uma olhada</a>
   
 ### + Sobre mim:
 <div>
